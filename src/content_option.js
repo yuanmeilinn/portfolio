@@ -1,25 +1,25 @@
-const logotext = "JOHN";
+const logotext = "Mei Lin";
 const meta = {
-    title: "John Doe",
+    title: "Duong ",
     description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "Duong Tran My Linh | Yuan Mei Lin",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "IT consultant | Back-end Developer | Data Analyst.",
+        second: "Implement DevOps practice for team.",
+        third: "Design AI/ML/Cloud solutions & systems.",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "Programming",
+    your_image_url: "https://solarsystem.nasa.gov/gltf_embed/2355",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "Summary",
+    aboutme: "2nd year IT major student (AQF 3-year Program) at Dean School of Science, Engineering and Technology, RMIT University. My qualities as a Software Engineer include proven team-leading skills, automated/AI/ML deployment, logical tech-stack structuring as well as steady knowledge of on-trend technologies, engaged relationship-building between members, customers and last but not least, a good sense of humour! Extremely inquisitive,willing to learn and improve myself from inspiring peers in Tech-industry and through the process of working in profesionnal environment..",
 };
-const worktimeline = [{
+const activities = [{
         jobtitle: "Designer of week",
         where: "YAdfi",
         date: "2020",
@@ -73,74 +73,53 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.postimg.cc/6pgYFN2S/IMG-1092.jpg",
+        desctiption: "AI-based Real-time Sign Language Translator with Machine Learning",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.postimg.cc/X7xPHhgS/IMG-1078.jpg",
+        desctiption: "Video sharing Chatroom Platform with Face-Detection using AI approach.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.postimg.cc/MKhBSZ5y/IMG-8975.jpg",
+        desctiption: "Minimal personal Resume using LaTeX as the main scripting language.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.postimg.cc/vZhGv34c/IMG-1053.jpg",
+        desctiption: "RMIT Student-Group Database Management System ORACLE APEX web application.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.postimg.cc/sxWV9zWr/IMG-1064.jpg",
+        desctiption: "Person Counter with Computer Vision Approach coded in Python .",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.postimg.cc/sxWV9zWr/IMG-1064.jpg",
+        desctiption: "Interactive Portfolio Website written with ReactJS, HTML5, CSS, Javascript ",
         link: "#",
     },
 
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.postimg.cc/y8LzRxGR/IMG-1071.jpg",
+        desctiption:  "CLI-based Store Management System/E-commerce Store written in Java for Coursework" ,
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://i.postimg.cc/L4PRWHqd/IMG-1018-2.jpg",
+        desctiption: "Moon-phase Observing Website",
         link: "#",
     },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "linhduongalmira@gmail.com",
+    YOUR_FONE: "+84 909 296 529",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
-    // creat an emailjs.com account 
-    // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
     YOUR_USER_ID: "user_id",
@@ -151,14 +130,12 @@ const socialprofils = {
     facebook: "https://facebook.com",
     linkedin: "https://linkedin.com",
     twitter: "https://twitter.com",
-    youtube: "https://youtube.com",
-    twitch: "https://twitch.com",
 };
 export {
     meta,
     dataabout,
     dataportfolio,
-    worktimeline,
+    activities,
     skills,
     services,
     introdata,

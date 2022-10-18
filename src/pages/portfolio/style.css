@@ -15,7 +15,6 @@
     position: relative;
     background: var(--secondary-color);
     padding: 6px;
-    border: 1px solid var(--secondary-color);
     transition: 0.3s ease;
     font-size: 0;
     min-height: 300px;
@@ -42,7 +41,6 @@
     width: 100%;
     transition: 0.3s ease-in-out;
     opacity: 0;
-    border: 1px solid black;
 }
 
 .po_item .content {
@@ -69,7 +67,6 @@
 
 .po_item .content a {
     background: var(--bg-color);
-    border: solid 1px var(--text-color);
     padding: 4px 8px;
     text-align: center;
     font-size: 1rem;
