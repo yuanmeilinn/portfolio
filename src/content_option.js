@@ -36,27 +36,20 @@ const activities = [{
     },
 ];
 
-const skills = [{
-        name: "Python",
-        value: 90,
-    },
-    {
-        name: "Djano",
-        value: 85,
-    },
-    {
-        name: "Javascript",
-        value: 80,
-    },
-    {
-        name: "React",
-        value: 60,
-    },
-    {
-        name: "Jquery",
-        value: 85,
-    },
+const services = [{
+    title: "UI & UX Design",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+},
+{
+    title: "Mobile Apps",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+},
+{
+    title: "Wordpress Design",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+},
 ];
+
 
 const dataportfolio = [{
         img: "https://i.postimg.cc/xTvbf5xk/IMG-1309.jpg",
@@ -64,27 +57,27 @@ const dataportfolio = [{
         link: "https://github.com/meolinn/GlobalHealthHackathon2022",
     },
     {
-        img: "https://i.postimg.cc/X7xPHhgS/IMG-1078.jpg",
+        img: "https://i.postimg.cc/x8rcYNLy/IMG-1313.jpg",
         desctiption: "Video sharing Chatroom Platform with Face-Detection using AI approach.",
         link: "https://github.com/meolinn/SheCodesHackathon2022",
     },
     {
-        img: "https://i.postimg.cc/MKhBSZ5y/IMG-8975.jpg",
+        img: "https://i.postimg.cc/qvg0bM3k/IMG-1348.jpg",
         desctiption: "Minimal personal Resume using LaTeX as the main scripting language.",
         link: "https://github.com/meolinn/PersonalCV",
     },
     {
-        img: "https://i.postimg.cc/vZhGv34c/IMG-1053.jpg",
+        img: "https://i.postimg.cc/3JFd5RNm/IMG-1317.jpg",
         desctiption: "RMIT Student-Group Database Management System ORACLE APEX web application.",
         link: "https://github.com/meolinn/RMITGroupMatchingSystem",
     },
     {
-        img: "https://i.postimg.cc/sxWV9zWr/IMG-1064.jpg",
+        img: "https://i.postimg.cc/sxcy8Mm2/IMG-1339.jpg",
         desctiption: "Person Counter with Computer Vision Approach coded in Python .",
         link: "https://github.com/meolinn/PeopleCounter",
     },
     {
-        img: "https://i.postimg.cc/sxWV9zWr/IMG-1064.jpg",
+        img: "https://i.postimg.cc/XNcVXPW0/IMG-1338.jpg",
         desctiption: "Interactive Portfolio Website written with ReactJS, HTML5, CSS, Javascript ",
         link: "https://github.com/meolinn/portfolio",
     },
@@ -112,9 +105,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    github: "https://github.com/meolinn",
+    facebook: "https://www.facebook.com/meolinn1612/",
+    linkedin: "https://www.linkedin.com/in/yuanmeilin/",
     twitter: "https://twitter.com",
 };
 export {
@@ -122,7 +115,6 @@ export {
     dataabout,
     dataportfolio,
     activities,
-    skills,
     services,
     introdata,
     contactConfig,
