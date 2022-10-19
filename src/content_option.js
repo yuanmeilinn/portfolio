@@ -61,43 +61,43 @@ const skills = [{
 const dataportfolio = [{
         img: "https://i.postimg.cc/xTvbf5xk/IMG-1309.jpg",
         desctiption: "AI-based Real-time Sign Language Translator with Machine Learning",
-        link: "#",
+        link: "https://github.com/meolinn/GlobalHealthHackathon2022",
     },
     {
         img: "https://i.postimg.cc/X7xPHhgS/IMG-1078.jpg",
         desctiption: "Video sharing Chatroom Platform with Face-Detection using AI approach.",
-        link: "#",
+        link: "https://github.com/meolinn/SheCodesHackathon2022",
     },
     {
         img: "https://i.postimg.cc/MKhBSZ5y/IMG-8975.jpg",
         desctiption: "Minimal personal Resume using LaTeX as the main scripting language.",
-        link: "#",
+        link: "https://github.com/meolinn/PersonalCV",
     },
     {
         img: "https://i.postimg.cc/vZhGv34c/IMG-1053.jpg",
         desctiption: "RMIT Student-Group Database Management System ORACLE APEX web application.",
-        link: "#",
+        link: "https://github.com/meolinn/RMITGroupMatchingSystem",
     },
     {
         img: "https://i.postimg.cc/sxWV9zWr/IMG-1064.jpg",
         desctiption: "Person Counter with Computer Vision Approach coded in Python .",
-        link: "#",
+        link: "https://github.com/meolinn/PeopleCounter",
     },
     {
         img: "https://i.postimg.cc/sxWV9zWr/IMG-1064.jpg",
         desctiption: "Interactive Portfolio Website written with ReactJS, HTML5, CSS, Javascript ",
-        link: "#",
+        link: "https://github.com/meolinn/portfolio",
     },
 
     {
         img: "https://i.postimg.cc/y8LzRxGR/IMG-1071.jpg",
         desctiption:  "CLI-based Store Management System/E-commerce Store written in Java for Coursework" ,
-        link: "#",
+        link: "https://github.com/meolinn/JavaStoreTUI",
     },
     {
         img: "https://i.postimg.cc/L4PRWHqd/IMG-1018-2.jpg",
         desctiption: "Moon-phase Observing Website",
-        link: "#",
+        link: "https://github.com/meolinn/tsuki-no-hi",
     },
 
 ];
@@ -105,7 +105,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "linhduongalmira@gmail.com",
     YOUR_FONE: "+84 909 296 529",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: "Be clear about the goal but be flexible about the process of achieving it",
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
     YOUR_USER_ID: "user_id",
