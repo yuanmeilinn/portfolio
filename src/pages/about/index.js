@@ -59,7 +59,7 @@ export const About = () => {
           <Col lg="5">
             <h3 className="color_sec py-4">Skills</h3>
           </Col>
-          <Col lg="7">
+          {/* <Col lg="7">
             {skills.map((data, i) => {
               return (
                 <div key={i}>
@@ -77,7 +77,7 @@ export const About = () => {
                 </div>
               );
             })}
-          </Col>
+          </Col> */}
         </Row>
         <Row className="sec_sp">
           <Col lang="5">
