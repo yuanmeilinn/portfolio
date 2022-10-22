@@ -77,7 +77,7 @@ const dataportfolio = [{
         link: "https://github.com/meolinn/PeopleCounter",
     },
     {
-        img: "https://i.postimg.cc/sxWV9zWr/IMG-1064.jpg",
+        img: "https://i.postimg.cc/XNcVXPW0/IMG-1338.jpg",
         desctiption: "Interactive Portfolio Website written with ReactJS, HTML5, CSS, Javascript ",
         link: "https://github.com/meolinn/portfolio",
     },
